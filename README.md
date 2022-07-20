@@ -1,1 +1,0 @@
-# UniversityStudentDiaryManagementSystem_PY
